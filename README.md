@@ -25,6 +25,9 @@
 ### 3. Data Visualization:
  Distributuion of transaction type is showed.
  
+ ![image](https://user-images.githubusercontent.com/104545490/175645453-21a61812-3c10-4937-8f27-ab53c876aaa2.png)
+
+ 
 ### 4. Now I have obtained the correlation between the features of the data with the isFraud column.
 
 ![image](https://user-images.githubusercontent.com/104545490/175644881-f28759b8-b66e-42cd-82c8-9312dcbb96dd.png)
