@@ -32,11 +32,11 @@
 
 ![image](https://user-images.githubusercontent.com/104545490/175644881-f28759b8-b66e-42cd-82c8-9312dcbb96dd.png)
 
-### 5. Divide the data into training and testing and train the model using RandomForestClassifier algorithm
+### 5. Divide the data into training and testing and trained the model using RandomForestClassifier algorithm
 
 ![image](https://user-images.githubusercontent.com/104545490/175645059-08a1e876-1320-4a91-88a0-97b914e9fe40.png)
 
-### 6. Now let’s classify/predict whether a transaction is a fraud or not by feeding about a transaction into the model
+### 6. Now I have classified/predicted whether a transaction is a fraud or not by feeding about a transaction into the model
 
 ![image](https://user-images.githubusercontent.com/104545490/175645195-fff8e63a-a00b-405a-892c-bef49e1e61fe.png)
 
