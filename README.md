@@ -42,6 +42,12 @@
 
 ## This is how I have built the Machine Learning Model which predicts the online payment is Fraud or Not.
 
+Project by - Shivsharan Malage
+
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
+
 
 
 
